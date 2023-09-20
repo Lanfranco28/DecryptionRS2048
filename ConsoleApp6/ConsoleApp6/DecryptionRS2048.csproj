@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Conexion.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="05.Util\Presto.Core.General.dll" />
+    <None Remove="05.Util\Presto.Core.SQL.Data.dll" />
+    <None Remove="05.Util\Presto.Core.SQL.IData.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="05.Util\Presto.Core.General.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="05.Util\Presto.Core.SQL.Data.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="05.Util\Presto.Core.SQL.IData.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Presto.Core.General">
+      <HintPath>05.Util\Presto.Core.General.dll</HintPath>
+    </Reference>
+    <Reference Include="Presto.Core.SQL.Data">
+      <HintPath>05.Util\Presto.Core.SQL.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Presto.Core.SQL.IData">
+      <HintPath>05.Util\Presto.Core.SQL.IData.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

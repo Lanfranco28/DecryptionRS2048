@@ -1,0 +1,58 @@
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.exe
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.deps.json
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.json
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ref\ConsoleApp6.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.pdb
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ref\ConsoleApp6.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.pdb
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.CopyComplete
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\05.Util\Presto.Core.General.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\05.Util\Presto.Core.SQL.Data.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\05.Util\Presto.Core.SQL.IData.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Presto.Core.General.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Presto.Core.SQL.Data.dll
+C:\Users\Hp\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Presto.Core.SQL.IData.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.exe
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\05.Util\Presto.Core.General.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\05.Util\Presto.Core.SQL.Data.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\05.Util\Presto.Core.SQL.IData.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.deps.json
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.json
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.dev.json
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.pdb
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Presto.Core.General.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Presto.Core.SQL.Data.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\Presto.Core.SQL.IData.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.CopyComplete
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\refint\ConsoleApp6.dll
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.pdb
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\Geyson Valladares\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ref\ConsoleApp6.dll
