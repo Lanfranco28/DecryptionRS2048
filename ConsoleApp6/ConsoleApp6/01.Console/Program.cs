@@ -19,9 +19,7 @@ namespace DecryptionRS2048
         static async Task Main(string[] args)
         {
             await LeerArchivoAsync();
-            //string encriptado = EncriptarCampo("Objeto 01 - Campo encriptado");
-            //string encriptado2 = EncriptarCampo("Objeto 02 - Campo encriptado");
-            //string nada = string.Empty;
+            
         }
 
         private static async Task LeerArchivoAsync()

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lourdescalderon/Downloads/ConsoleApp6/ConsoleApp6/DecryptionRS2048.csproj": {}
+    "/Users/lourdescalderon/Projects/DecryptionRS2048/ConsoleApp6/ConsoleApp6/DecryptionRS2048.csproj": {}
   },
   "projects": {
-    "/Users/lourdescalderon/Downloads/ConsoleApp6/ConsoleApp6/DecryptionRS2048.csproj": {
+    "/Users/lourdescalderon/Projects/DecryptionRS2048/ConsoleApp6/ConsoleApp6/DecryptionRS2048.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lourdescalderon/Downloads/ConsoleApp6/ConsoleApp6/DecryptionRS2048.csproj",
+        "projectUniqueName": "/Users/lourdescalderon/Projects/DecryptionRS2048/ConsoleApp6/ConsoleApp6/DecryptionRS2048.csproj",
         "projectName": "DecryptionRS2048",
-        "projectPath": "/Users/lourdescalderon/Downloads/ConsoleApp6/ConsoleApp6/DecryptionRS2048.csproj",
+        "projectPath": "/Users/lourdescalderon/Projects/DecryptionRS2048/ConsoleApp6/ConsoleApp6/DecryptionRS2048.csproj",
         "packagesPath": "/Users/lourdescalderon/.nuget/packages/",
-        "outputPath": "/Users/lourdescalderon/Downloads/ConsoleApp6/ConsoleApp6/obj/",
+        "outputPath": "/Users/lourdescalderon/Projects/DecryptionRS2048/ConsoleApp6/ConsoleApp6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lourdescalderon/.nuget/NuGet/NuGet.Config"

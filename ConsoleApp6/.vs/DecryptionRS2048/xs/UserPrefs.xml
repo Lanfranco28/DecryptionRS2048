@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{739BDA51-5856-404E-8665-A5EDBD80DC2C}|Default">
+  <MonoDevelop.Ide.ItemProperties.DecryptionRS2048 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp6/01.Console/Program.cs">
+    <Files>
+      <File FileName="ConsoleApp6/01.Console/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DecryptionRS2048">
+            <Node name="DecryptionRS2048" expanded="True">
+              <Node name="01.Console" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
